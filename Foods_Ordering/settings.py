@@ -53,8 +53,8 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
-ROOT_URLCONF = 'Foods_Ordering.urls'
+ROOT_URLCONF = 'canteen-project.Foods_Ordering.urls'
+#ROOT_URLCONF = 'Foods_Ordering.urls'
 
 TEMPLATES = [
     {
